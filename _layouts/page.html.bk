@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <header>{% include navbar.html %}</header>
+    <main>{{ content }}</main>
+    <footer>
+      <!-- Footer content goes here -->
+    </footer>
+  </body>
+</html>
