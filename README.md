@@ -139,5 +139,5 @@ Githubで新しいファイルを保存して追加する場合は、`Commit` �
 
 更新には1~5分くらいかかります。
 
-サイト（https://shibuyamio.github.io/static-site/)にアクセスしてリロードしてみると、サイトに新しいページが追加されています。
+サイト ( https://shibuyamio.github.io/static-site/ )にアクセスしてリロードしてみると、サイトに新しいページが追加されています。
 
