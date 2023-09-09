@@ -16,7 +16,6 @@
 # Deploy Settings
 safe: true
 lsi: false
-source: /
 incremental: false
 highlighter: rouge
 gist:
